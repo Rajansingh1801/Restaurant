@@ -45,7 +45,7 @@ img{width: 100%;}
 }
 
 /* -------------header-content----------------- */
-.header-content{background-image: url("/images/main-header.png"); background-repeat: no-repeat; background-position: center; background-size:cover; margin-top:-4rem; padding-top: 15rem; padding-bottom: 9rem;}
+.header-content{background-image: url("images/main-header.png"); background-repeat: no-repeat; background-position: center; background-size:cover; margin-top:-4rem; padding-top: 15rem; padding-bottom: 9rem;}
 .header-content h1{font-family:'Pacifico', cursive; font-size: 109px; color: white;}
 .header-content h4{color: white; font-weight: 500;}
 .header-content .btn{border: 3px solid white; color: white; font-weight: 900; font-size: 1.1rem; padding: 7px 40px;}
@@ -150,7 +150,7 @@ img{width: 100%;}
 
 
 /* --------------------mobile------------------- */
-.mobile{background-image: url("/images/bg1.png"); background-repeat: no-repeat; background-position: center; background-size:cover;}
+.mobile{background-image: url("images/bg1.png"); background-repeat: no-repeat; background-position: center; background-size:cover;}
 .mobile h3{font-size: 30px; font-family: 'pacifico',cursive; color: white; margin:auto; line-height: 15px;}
 .mobile h1{font-size: 87px; color: white;}
 .mobile h2{font-size: 30px; color: white; line-height: 7px;}
