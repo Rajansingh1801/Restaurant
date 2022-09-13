@@ -45,7 +45,7 @@ img{width: 100%;}
 }
 
 /* -------------header-content----------------- */
-.header-content{background-image: url(/images/main-header.png); background-repeat: no-repeat; background-position: center; background-size:cover; margin-top:-4rem; padding-top: 15rem; padding-bottom: 9rem;}
+.header-content{background-image: url("/images/main-header.png"); background-repeat: no-repeat; background-position: center; background-size:cover; margin-top:-4rem; padding-top: 15rem; padding-bottom: 9rem;}
 .header-content h1{font-family:'Pacifico', cursive; font-size: 109px; color: white;}
 .header-content h4{color: white; font-weight: 500;}
 .header-content .btn{border: 3px solid white; color: white; font-weight: 900; font-size: 1.1rem; padding: 7px 40px;}
